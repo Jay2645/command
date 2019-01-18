@@ -1,5 +1,5 @@
-#ifndef MOUSE_COMMAND_NODE
-#define  MOUSE_COMMAND_NODE
+#ifndef MOUSE_COMMAND_NODE_H
+#define  MOUSE_COMMAND_NODE_H
 
 #include "command_node.h"
 
